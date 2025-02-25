@@ -9,7 +9,7 @@ string surname = "Áquila";
 
 Console.WriteLine("Meu nome completo é " + firstName +" "+ " " + surname + lastName);
 
-int idade = 39;
+//int idade = 39;
 
 
 Console.WriteLine($"Meu nome completo é {firstName} {surname} {lastName} e a minha idade é {idade}");
